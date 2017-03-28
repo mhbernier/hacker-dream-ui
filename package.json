@@ -1,0 +1,17 @@
+{
+  "name": "hacker-dream-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "User interface part of Hacker Dream theme.",
+  "keywords": [
+    "ui",
+    "dark",
+    "black",
+    "term"
+  ],
+  "repository": "https://github.com/xeroxyde/hacker-dream-ui",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
